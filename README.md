@@ -4,7 +4,9 @@ A repository of ARM Tiva C Series projects demonstrating embedded systems progra
 Bu repo, kişisel ve profesyonel projelerimin bir derlemesidir. Kodlar ve belgeler, her proje için ayrı bir klasörde organize edilmiştir. Bu projeler, yazılım geliştirme becerilerimi ve mühendislik alanındaki deneyimlerimi yansıtmaktadır.
 
 ## İçerik
-- **Proje 1:** Proje Tanımı
+- **Proje 1:** Tiva C Serisi LCD Kontrol Projesi
+
+Proje Tanımı
 
 Bu proje, ARM Tiva C Serisi (TM4C123G) mikrodenetleyici kullanarak bir 16x2 LCD ekranın 4-bit modda kontrolünü sağlamaktadır. LCD'nin başlatılması, komut gönderimi, veri gösterimi ve metin kaydırma gibi temel ve gelişmiş işlemler gerçekleştirilmiştir. 
 Teknik Özellikler
